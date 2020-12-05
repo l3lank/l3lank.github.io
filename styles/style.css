@@ -1,0 +1,42 @@
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	font-size: 32px;
+	font-family: 'Texturina', serif;
+	text-align: center;
+	text-shadow: 4px 6px 6px black;
+	color: #00FA9A;
+
+}
+
+
+p, ol, a {
+	font-size: 16px;
+	font-family: 'Texturina', serif;
+	line-height: 2;
+	letter-spacing: 1;
+
+}
+
+html {
+	background-color: #00FA9A;
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #FFAACC;
+	padding: 0px, 20px, 20px, 20px;
+	border: 5px solid gray;
+
+
+}
+
+img {
+	display: block;
+	width: 950px;
+	margin: 0 auto;
+	border: 4px solid gray;
+
+
+}
